@@ -1,4 +1,42 @@
-# ingest.py
+"""
+SETUP INSTRUCTIONS
+
+1. Install Requirements:
+    Run from your project root (ideally inside a virtual environment):
+        pip install -r requirements.txt
+
+2. OpenAI API Access:
+    - Requires an OpenAI account with API access enabled.
+    - Pay-as-you-go billing is required (free-tier keys will not work).
+    - Sign up and find your key at: https://platform.openai.com/account/api-keys
+
+3. Store Your API Key:
+    Create a `.env` file in the project root and add:
+        OPENAI_API_KEY=sk-...
+    ⚠️ Be sure `.env` is listed in your `.gitignore` so your key isn't exposed.
+
+4. Source Document Format:
+    - This script expects a JSON file (default: `data/veraSampleContext.json`) structured like:
+        [
+            {
+                "id": "doc-001",
+                "content": "Full text of the value statement or policy.",
+                "tags": ["equity", "inclusion"]
+            },
+            ...
+        ]
+
+        - You can also refer to the example YAML data structure at: reference/veraContext.yaml
+
+5. ▶Run Ingestion:
+    From the project root:
+        python3 ingest.py
+
+    The script will:
+    - ingest a structured set of values-aligned documents
+    - Generate vector embeddings
+    - Store results in ChromaDB (default path: `db/`)
+"""
 
 import json
 import os
