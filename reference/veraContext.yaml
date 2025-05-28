@@ -1,0 +1,61 @@
+- id: doc001
+  title: "UN Women’s Empowerment Principles"
+  type: ethicalGuideline
+  status: active
+  history:
+    - changedFrom: proposed
+      changedTo: inReview
+      changeDate: "2025-03-14"
+    - changedFrom: inReview
+      changedTo: active
+      changeDate: "2025-04-01"
+  source:
+    url: "https://www.unwomen.org/en/digital-library/publications/2011/10/women-s-empowerment-principles"
+    publisher: "UN Women"
+    retrievedDate: "2025-05-27"
+  jurisdiction: global
+  applicability:
+    - genderEquity
+    - workplaceEthics
+    - inclusion
+  tags:
+    - equity
+    - gender
+    - humanRights
+    - guidelines
+  license: "CC BY-NC-SA 3.0 IGO"
+  origin: external
+  contentBlocks:
+    - id: block001a
+      excerpt: "Establish high-level corporate leadership for gender equality."
+      rationale: "Leadership commitment signals institutional priority."
+      weight: 0.8
+      notes: "Often cited in international D&I frameworks."
+
+- id: doc002
+  title: "Meritocratic Hiring Guidelines – Internal Memo"
+  type: internalPolicy
+  status: active
+  history:
+    - changedFrom: proposed
+      changedTo: active
+      changeDate: "2024-10-15"
+  source:
+    author: "Jay W. Frink"
+    organization: "Fictional NGO X"
+    documentPath: "internal_docs/merit_hiring_2024.pdf"
+    creationDate: "2024-10-12"
+  jurisdiction: orgSpecific
+  applicability:
+    - hiring
+    - promotion
+    - governance
+  tags:
+    - meritocracy
+    - biasMitigation
+    - internalPolicy
+  license: "Proprietary"
+  origin: internal
+  contentBlocks:
+    - id: block002b
+      excerpt: "We define merit as demonstrated capacity, learning

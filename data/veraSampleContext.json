@@ -1,0 +1,154 @@
+[
+  {
+    "id": "doc001",
+    "title": "UN Women’s Empowerment Principles",
+    "type": "ethicalGuideline",
+    "status": "active",
+    "history": [
+      {
+        "changedFrom": "proposed",
+        "changedTo": "inReview",
+        "changeDate": "2025-03-14"
+      },
+      {
+        "changedFrom": "inReview",
+        "changedTo": "active",
+        "changeDate": "2025-04-01"
+      }
+    ],
+    "source": {
+      "url": "https://www.unwomen.org/en/digital-library/publications/2011/10/women-s-empowerment-principles",
+      "publisher": "UN Women",
+      "retrievedDate": "2025-05-27"
+    },
+    "jurisdiction": "global",
+    "applicability": ["genderEquity", "workplaceEthics", "inclusion"],
+    "tags": ["equity", "gender", "humanRights", "guidelines"],
+    "license": "CC BY-NC-SA 3.0 IGO",
+    "origin": "external",
+    "contentBlocks": [
+      {
+        "id": "block001a",
+        "excerpt": "Establish high-level corporate leadership for gender equality.",
+        "rationale": "Leadership commitment signals institutional priority.",
+        "weight": 0.8,
+        "notes": "Often cited in international D&I frameworks."
+      }
+    ]
+  },
+  {
+    "id": "doc002",
+    "title": "Meritocratic Hiring Guidelines – Internal Memo",
+    "type": "internalPolicy",
+    "status": "active",
+    "history": [
+      {
+        "changedFrom": "proposed",
+        "changedTo": "active",
+        "changeDate": "2024-10-15"
+      }
+    ],
+    "source": {
+      "author": "Jay W. Frink",
+      "organization": "Fictional NGO X",
+      "documentPath": "internal_docs/merit_hiring_2024.pdf",
+      "creationDate": "2024-10-12"
+    },
+    "jurisdiction": "orgSpecific",
+    "applicability": ["hiring", "promotion", "governance"],
+    "tags": ["meritocracy", "biasMitigation", "internalPolicy"],
+    "license": "Proprietary",
+    "origin": "internal",
+    "contentBlocks": [
+      {
+        "id": "block002b",
+        "excerpt": "We define merit as demonstrated capacity, learning trajectory, and values alignment—not pedigree.",
+        "rationale": "Reduces barriers for nontraditional candidates.",
+        "weight": 1.0,
+        "notes": "Intended for hiring managers across all departments."
+      }
+    ]
+  },
+  {
+    "id": "doc003",
+    "title": "GDPR – Article 22 Summary",
+    "type": "legalExtraction",
+    "status": "active",
+    "history": [],
+    "source": {
+      "url": "https://gdpr.eu/article-22-automated-individual-decision-making/",
+      "publisher": "EU GDPR",
+      "retrievedDate": "2025-05-27"
+    },
+    "jurisdiction": "EU",
+    "applicability": ["automatedDecisions", "dataSubjectRights"],
+    "tags": ["law", "gdpr", "transparency", "explainability"],
+    "license": "Open Government Licence – EU",
+    "origin": "external",
+    "contentBlocks": [
+      {
+        "id": "block003c",
+        "excerpt": "The data subject shall have the right not to be subject to a decision based solely on automated processing.",
+        "rationale": "Protects individuals from opaque, unaccountable decisions.",
+        "weight": 1.0,
+        "notes": "Important for AI-based hiring/promotions guidance."
+      }
+    ]
+  },
+  {
+    "id": "doc004",
+    "title": "Case Study: Equitable Hiring at OpenCo",
+    "type": "caseStudy",
+    "status": "active",
+    "history": [],
+    "source": {
+      "organization": "OpenCo",
+      "creationDate": "2023-07-03"
+    },
+    "jurisdiction": "unitedStates",
+    "applicability": ["hiring", "metrics", "diStrategy"],
+    "tags": ["meritocracy", "equity", "outcomes"],
+    "license": "CC BY-SA",
+    "origin": "external",
+    "contentBlocks": [
+      {
+        "id": "block004d",
+        "excerpt": "After introducing blind application review, OpenCo saw a 27% increase in BIPOC candidate advancement.",
+        "rationale": "Supports merit-based review by reducing unconscious bias.",
+        "weight": 0.7,
+        "notes": "Quantitative evidence of equity policy effectiveness."
+      }
+    ]
+  },
+  {
+    "id": "doc005",
+    "title": "Original Value Statement: Lawfulness as a Baseline",
+    "type": "originalContribution",
+    "status": "active",
+    "history": [
+      {
+        "changedFrom": "proposed",
+        "changedTo": "active",
+        "changeDate": "2025-05-22"
+      }
+    ],
+    "source": {
+      "author": "VARM Contributor #14",
+      "submissionDate": "2025-05-22"
+    },
+    "jurisdiction": "universal",
+    "applicability": ["compliance", "ethics", "civicTrust"],
+    "tags": ["lawfulness", "compliance", "publicTrust"],
+    "license": "VARM Community License",
+    "origin": "internal",
+    "contentBlocks": [
+      {
+        "id": "block005e",
+        "excerpt": "In all decision support systems, legality must be the minimum standard—not the ceiling—for what is considered acceptable.",
+        "rationale": "Reinforces the distinction between what is legal and what is ethical.",
+        "weight": 0.9,
+        "notes": "Intended to guide all downstream value application logic."
+      }
+    ]
+  }
+]
