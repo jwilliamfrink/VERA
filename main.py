@@ -13,14 +13,12 @@ from langchain.embeddings import OpenAIEmbeddings
 from langchain.chains import RetrievalQA
 from langchain.chat_models import ChatOpenAI
 import os
+api_key = os.getenv("OPENAI_API_KEY")
 
 # --- Setup ---
 app = FastAPI()
 app.mount("/static", StaticFiles(directory="static"), name="static")
 templates = Jinja2Templates(directory="templates")
-
-# --- Environment ---
-os.environ["OPENAI_API_KEY"] = "your-key-here"  # replace or inject via `.env`
 
 # --- RAG Chain Setup ---
 embeddings = OpenAIEmbeddings()
@@ -37,4 +35,6 @@ async def home(request: Request):
 @app.get("/ask")
 async def ask(query: str):
     response = qa_chain.run(query)
+    if response.strip().lower() in ["i don't know.", "i don't know", ""]:
+        response = llm.predict(query)
     return {"answer": response}
