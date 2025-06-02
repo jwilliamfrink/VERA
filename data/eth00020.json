@@ -1,0 +1,34 @@
+{
+  "id": "eth00021",
+  "title": "Belmont Report – Respect for Persons",
+  "titleKey": "belmontRespectForPersons",
+  "type": "bioethicsReport",
+  "status": "proposed",
+  "history": [
+    {
+      "changedFrom": "",
+      "changedTo": "proposed",
+      "changeDate": "2025-06-02"
+    }
+  ],
+  "source": {
+    "url": "https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html",
+    "publisher": "U.S. Department of Health & Human Services",
+    "retrievedDate": "2025-06-02"
+  },
+  "jurisdiction": "unitedStates",
+  "applicability": ["autonomy", "informedConsent", "protectionOfVulnerable"],
+  "tags": ["researchEthics", "humanSubjects", "bioethics"],
+  "universalPrinciples": ["autonomy", "protection", "respect"],
+  "license": "Public Domain",
+  "origin": "external",
+  "contentBlocks": [
+    {
+      "id": "block00021a",
+      "excerpt": "Respect for persons incorporates at least two ethical convictions: first, that individuals should be treated as autonomous agents, and second, that persons with diminished autonomy are entitled to protection.",
+      "rationale": "Articulates a dual ethical obligation: respect autonomy and protect those unable to fully exercise it.",
+      "weight": 1.0,
+      "notes": "One of the three core principles (alongside Beneficence and Justice) in U.S. research ethics."
+    }
+  ]
+}

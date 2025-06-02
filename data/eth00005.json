@@ -1,0 +1,34 @@
+{
+  "id": "eth00005",
+  "title": "Rawls' Theory of Justice – Fair Equality of Opportunity",
+  "titleKey": "rawlsFairOpportunity",
+  "type": "philosophicalFramework",
+  "status": "proposed",
+  "history": [
+    {
+      "changedFrom": "",
+      "changedTo": "proposed",
+      "changeDate": "2025-06-02"
+    }
+  ],
+  "source": {
+    "url": "https://plato.stanford.edu/entries/rawls/",
+    "publisher": "Stanford Encyclopedia of Philosophy",
+    "retrievedDate": "2025-06-02"
+  },
+  "jurisdiction": "universal",
+  "applicability": ["justice", "fairness", "opportunity"],
+  "tags": ["inequality", "ethics", "socialJustice"],
+  "universalPrinciples": ["equality", "fairness", "justice"],
+  "license": "CC BY-NC",
+  "origin": "external",
+  "contentBlocks": [
+    {
+      "id": "block00005a",
+      "excerpt": "Social and economic inequalities are to be arranged so that they are both (a) to the greatest benefit of the least advantaged... and (b) attached to offices and positions open to all under conditions of fair equality of opportunity.",
+      "rationale": "Defines fairness as structured access, not equal outcomes; deeply influential in modern policy ethics.",
+      "weight": 1.0,
+      "notes": "Often cited in diversity, equity, and systemic bias discourse."
+    }
+  ]
+}

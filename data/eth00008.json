@@ -1,0 +1,34 @@
+{
+  "id": "eth00008",
+  "title": "UNESCO Global Declaration on Information Ethics",
+  "titleKey": "unescoInformationEthics",
+  "type": "internationalDeclaration",
+  "status": "proposed",
+  "history": [
+    {
+      "changedFrom": "",
+      "changedTo": "proposed",
+      "changeDate": "2025-06-02"
+    }
+  ],
+  "source": {
+    "url": "https://unesdoc.unesco.org/ark:/48223/pf0000377257",
+    "publisher": "UNESCO",
+    "retrievedDate": "2025-06-02"
+  },
+  "jurisdiction": "global",
+  "applicability": ["truth", "informationEthics", "digitalRights"],
+  "tags": ["unesco", "accessToInformation", "equity"],
+  "universalPrinciples": ["autonomy", "truthfulness", "equality"],
+  "license": "Creative Commons Attribution",
+  "origin": "external",
+  "contentBlocks": [
+    {
+      "id": "block00008a",
+      "excerpt": "Information ethics is rooted in the respect for human dignity, autonomy, and the right of all people to access, create, share, and benefit from information and knowledge.",
+      "rationale": "Defines ethical standards for digital and global information systems, rooted in access and equity.",
+      "weight": 1.0,
+      "notes": "Framing document for global information justice in the 21st century."
+    }
+  ]
+}

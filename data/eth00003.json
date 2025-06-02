@@ -1,0 +1,34 @@
+{
+  "id": "eth00003",
+  "title": "Belmont Report – Informed Consent",
+  "titleKey": "belmontReportInformedConsent",
+  "type": "externalPrinciple",
+  "status": "proposed",
+  "history": [
+    {
+      "changedFrom": "",
+      "changedTo": "proposed",
+      "changeDate": "2025-06-02"
+    }
+  ],
+  "source": {
+    "url": "https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html",
+    "publisher": "U.S. Department of Health & Human Services",
+    "retrievedDate": "2025-06-02"
+  },
+  "jurisdiction": "unitedStates",
+  "applicability": ["consent", "autonomy", "researchEthics", "medicalEthics"],
+  "tags": ["bioethics", "humanSubjects", "researchGuidelines"],
+  "universalPrinciples": ["autonomy", "protection", "dignity"],
+  "license": "Public Domain (US Federal)",
+  "origin": "external",
+  "contentBlocks": [
+    {
+      "id": "block00003a",
+      "excerpt": "Respect for persons incorporates at least two ethical convictions: first, that individuals should be treated as autonomous agents, and second, that persons with diminished autonomy are entitled to protection.",
+      "rationale": "Establishes informed consent as a moral and ethical imperative, especially in research involving human subjects.",
+      "weight": 1.0,
+      "notes": "Forms the basis of modern consent requirements in U.S. health and research policy."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "eth00018",
+  "title": "HIPAA Privacy Rule – Right to Access Health Information",
+  "titleKey": "hipaaRightOfAccess",
+  "type": "regulation",
+  "status": "proposed",
+  "history": [
+    {
+      "changedFrom": "",
+      "changedTo": "proposed",
+      "changeDate": "2025-06-02"
+    }
+  ],
+  "source": {
+    "url": "https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/access/index.html",
+    "publisher": "U.S. Department of Health & Human Services (HHS)",
+    "retrievedDate": "2025-06-02"
+  },
+  "jurisdiction": "unitedStates",
+  "applicability": ["privacy", "healthData", "informedConsent"],
+  "tags": ["hipaa", "patientRights", "dataAccess"],
+  "universalPrinciples": ["privacy", "autonomy", "accountability"],
+  "license": "Public Law",
+  "origin": "external",
+  "contentBlocks": [
+    {
+      "id": "block00018a",
+      "excerpt": "Except as otherwise provided…, an individual has a right of access to inspect and obtain a copy of protected health information about the individual… for as long as the information is maintained in the designated record set.",
+      "rationale": "Establishes legal and ethical rights of individuals to control, view, and retrieve their health data.",
+      "weight": 1.0,
+      "notes": "Central to healthcare transparency, digital health ethics, and personal data governance in the U.S."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "eth00007",
+  "title": "SPJ Code of Ethics – Seek Truth and Report It",
+  "titleKey": "spjTruthAndReport",
+  "type": "professionalCode",
+  "status": "proposed",
+  "history": [
+    {
+      "changedFrom": "",
+      "changedTo": "proposed",
+      "changeDate": "2025-06-02"
+    }
+  ],
+  "source": {
+    "url": "https://www.spj.org/ethicscode.asp",
+    "publisher": "Society of Professional Journalists",
+    "retrievedDate": "2025-06-02"
+  },
+  "jurisdiction": "unitedStates",
+  "applicability": ["truth", "informationEthics", "mediaIntegrity"],
+  "tags": ["journalism", "transparency", "accountability"],
+  "universalPrinciples": ["truthfulness", "accountability", "transparency"],
+  "license": "SPJ Code of Ethics",
+  "origin": "external",
+  "contentBlocks": [
+    {
+      "id": "block00007a",
+      "excerpt": "Ethical journalism should be accurate and fair. Journalists should be honest and courageous in gathering, reporting and interpreting information.",
+      "rationale": "Defines ethical truth-seeking as the foundation of responsible journalism and public trust.",
+      "weight": 1.0,
+      "notes": "Referenced widely in newsrooms, journalism education, and press freedom advocacy."
+    }
+  ]
+}

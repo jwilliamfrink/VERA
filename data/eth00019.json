@@ -1,0 +1,34 @@
+{
+  "id": "eth00019",
+  "title": "Nuremberg Code – Voluntary Consent in Human Research",
+  "titleKey": "nurembergVoluntaryConsent",
+  "type": "historicalCharter",
+  "status": "proposed",
+  "history": [
+    {
+      "changedFrom": "",
+      "changedTo": "proposed",
+      "changeDate": "2025-06-02"
+    }
+  ],
+  "source": {
+    "url": "https://history.nih.gov/display/history/Nuremberg+Code",
+    "publisher": "U.S. National Institutes of Health",
+    "retrievedDate": "2025-06-02"
+  },
+  "jurisdiction": "global",
+  "applicability": ["informedConsent", "medicalResearch", "humanRights"],
+  "tags": ["bioethics", "clinicalTrials", "humanSubjects"],
+  "universalPrinciples": ["informedConsent", "autonomy", "protection"],
+  "license": "Public Domain",
+  "origin": "external",
+  "contentBlocks": [
+    {
+      "id": "block00019a",
+      "excerpt": "The voluntary consent of the human subject is absolutely essential. This means that the person involved should have legal capacity to give consent; should be so situated as to be able to exercise free power of choice, without the intervention of any element of force, fraud, deceit, duress, over-reaching, or other ulterior form of constraint or coercion; and should have sufficient knowledge and comprehension of the elements of the subject matter involved as to enable him to make an understanding and enlightened decision.",
+      "rationale": "Formally defines voluntary, informed consent as a core ethical requirement in human subject research.",
+      "weight": 1.0,
+      "notes": "First drafted during the Nuremberg Trials; widely cited in research ethics and international law."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "eth00012",
+  "title": "Paris Agreement – Climate Responsibility and Human Rights",
+  "titleKey": "parisClimateJustice",
+  "type": "internationalTreaty",
+  "status": "proposed",
+  "history": [
+    {
+      "changedFrom": "",
+      "changedTo": "proposed",
+      "changeDate": "2025-06-02"
+    }
+  ],
+  "source": {
+    "url": "https://unfccc.int/sites/default/files/english_paris_agreement.pdf",
+    "publisher": "United Nations Framework Convention on Climate Change (UNFCCC)",
+    "retrievedDate": "2025-06-02"
+  },
+  "jurisdiction": "global",
+  "applicability": ["environment", "climate", "dutyOfCare"],
+  "tags": ["climateJustice", "humanRights", "environmentalEthics"],
+  "universalPrinciples": ["equity", "intergenerationalJustice", "dutyOfCare"],
+  "license": "UN Treaty",
+  "origin": "external",
+  "contentBlocks": [
+    {
+      "id": "block00012a",
+      "excerpt": "Acknowledging that climate change is a common concern of humankind, Parties should, when taking action to address climate change, respect, promote and consider their respective obligations on human rights, the right to health, the rights of indigenous peoples, local communities, migrants, children, persons with disabilities and people in vulnerable situations and the right to development, as well as gender equality, empowerment of women and intergenerational equity.",
+      "rationale": "Establishes climate action as an ethical mandate tied to rights, equity, and long-term care, not just emissions control.",
+      "weight": 1.0,
+      "notes": "Used widely in ESG frameworks and global climate justice policies."
+    }
+  ]
+}

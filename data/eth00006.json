@@ -1,0 +1,34 @@
+{
+  "id": "eth00006",
+  "title": "South African Truth and Reconciliation Commission",
+  "titleKey": "truthAndReconciliationSA",
+  "type": "caseStudy",
+  "status": "proposed",
+  "history": [
+    {
+      "changedFrom": "",
+      "changedTo": "proposed",
+      "changeDate": "2025-06-02"
+    }
+  ],
+  "source": {
+    "url": "https://www.justice.gov.za/trc/",
+    "publisher": "South African Department of Justice",
+    "retrievedDate": "2025-06-02"
+  },
+  "jurisdiction": "southAfrica",
+  "applicability": ["justice", "restorativeJustice", "postConflictEthics"],
+  "tags": ["reconciliation", "truthTelling", "equity"],
+  "universalPrinciples": ["justice", "dignity", "solidarity"],
+  "license": "Public Record (South Africa)",
+  "origin": "external",
+  "contentBlocks": [
+    {
+      "id": "block00006a",
+      "excerpt": "Reconciliation does not mean forgetting or trying to bury the pain of conflict, but that reconciliation means working together to correct the legacy of past injustice.",
+      "rationale": "Emphasizes justice as an active, collaborative process of healing rather than punishment.",
+      "weight": 1.0,
+      "notes": "Serves as a model for post-conflict ethics in global transitional justice work."
+    }
+  ]
+}

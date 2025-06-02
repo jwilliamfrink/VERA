@@ -1,0 +1,34 @@
+{
+  "id": "eth00014",
+  "title": "UN Human Rights Committee – Religious Freedom for All Belief Systems",
+  "titleKey": "iccprCommentReligiousFreedom",
+  "type": "internationalCommentary",
+  "status": "proposed",
+  "history": [
+    {
+      "changedFrom": "",
+      "changedTo": "proposed",
+      "changeDate": "2025-06-02"
+    }
+  ],
+  "source": {
+    "url": "https://www.refworld.org/docid/453883fb22.html",
+    "publisher": "UN Human Rights Committee",
+    "retrievedDate": "2025-06-02"
+  },
+  "jurisdiction": "global",
+  "applicability": ["sacredness", "pluralism", "beliefSystems"],
+  "tags": ["religiousFreedom", "tolerance", "minorityRights"],
+  "universalPrinciples": ["pluralism", "tolerance", "freedom"],
+  "license": "Public Document",
+  "origin": "external",
+  "contentBlocks": [
+    {
+      "id": "block00014a",
+      "excerpt": "Article 18 is not limited in its application to traditional religions or to religions and beliefs with institutional characteristics or practices… The freedom of thought, conscience and religion is far-reaching and profound; it encompasses freedom of thought on all matters, personal conviction and the commitment to religion or belief, whether manifested individually or in community with others.",
+      "rationale": "Affirms the protection of religious and spiritual diversity—including nontraditional, marginalized, and informal belief systems.",
+      "weight": 1.0,
+      "notes": "Authoritative interpretation of the ICCPR, widely used in legal and international human rights advocacy."
+    }
+  ]
+}

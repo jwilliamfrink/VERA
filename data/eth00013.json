@@ -1,0 +1,34 @@
+{
+  "id": "eth00013",
+  "title": "UDHR Article 18 – Freedom of Thought, Conscience, and Religion",
+  "titleKey": "udhrFreedomOfReligion",
+  "type": "legalFramework",
+  "status": "proposed",
+  "history": [
+    {
+      "changedFrom": "",
+      "changedTo": "proposed",
+      "changeDate": "2025-06-02"
+    }
+  ],
+  "source": {
+    "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights",
+    "publisher": "United Nations",
+    "retrievedDate": "2025-06-02"
+  },
+  "jurisdiction": "global",
+  "applicability": ["beliefSystems", "sacredness", "freedom"],
+  "tags": ["humanRights", "religion", "expression"],
+  "universalPrinciples": ["freedom", "autonomy", "dignity"],
+  "license": "UN Universal Declaration",
+  "origin": "external",
+  "contentBlocks": [
+    {
+      "id": "block00013a",
+      "excerpt": "Everyone has the right to freedom of thought, conscience and religion; this right includes freedom to change his religion or belief, and freedom, either alone or in community with others and in public or private, to manifest his religion or belief in teaching, practice, worship and observance.",
+      "rationale": "Defines a broad and inclusive human right to belief and spiritual autonomy, essential in pluralistic societies.",
+      "weight": 1.0,
+      "notes": "A foundational right recognized in nearly all modern constitutions and international treaties."
+    }
+  ]
+}

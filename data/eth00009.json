@@ -1,0 +1,34 @@
+{
+  "id": "eth00009",
+  "title": "UNESCO Declaration – Social Responsibility and Health",
+  "titleKey": "unescoSocialResponsibility",
+  "type": "internationalDeclaration",
+  "status": "proposed",
+  "history": [
+    {
+      "changedFrom": "",
+      "changedTo": "proposed",
+      "changeDate": "2025-06-02"
+    }
+  ],
+  "source": {
+    "url": "https://unesdoc.unesco.org/ark:/48223/pf0000146180",
+    "publisher": "UNESCO",
+    "retrievedDate": "2025-06-02"
+  },
+  "jurisdiction": "global",
+  "applicability": ["loyalty", "obligation", "publicEthics"],
+  "tags": ["health", "collectiveResponsibility", "governance"],
+  "universalPrinciples": ["solidarity", "protection", "beneficence"],
+  "license": "UNESCO Open Access",
+  "origin": "external",
+  "contentBlocks": [
+    {
+      "id": "block00009a",
+      "excerpt": "The promotion of health and social development for their people is a central purpose of governments that all sectors of society share.",
+      "rationale": "Defines shared responsibility between institutions and individuals as an ethical obligation toward societal well-being.",
+      "weight": 1.0,
+      "notes": "From Article 14 of the UNESCO Universal Declaration on Bioethics and Human Rights (2005)."
+    }
+  ]
+}

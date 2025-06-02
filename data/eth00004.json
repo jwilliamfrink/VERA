@@ -1,0 +1,34 @@
+{
+  "id": "eth00004",
+  "title": "GDPR Article 7 – Consent Requirements",
+  "titleKey": "gdprConsentRequirements",
+  "type": "legalFramework",
+  "status": "proposed",
+  "history": [
+    {
+      "changedFrom": "",
+      "changedTo": "proposed",
+      "changeDate": "2025-06-02"
+    }
+  ],
+  "source": {
+    "url": "https://gdpr.eu/article-7-how-to-obtain-consent/",
+    "publisher": "EU GDPR",
+    "retrievedDate": "2025-06-02"
+  },
+  "jurisdiction": "EU",
+  "applicability": ["consent", "privacy", "dataRights"],
+  "tags": ["gdpr", "compliance", "digitalRights"],
+  "universalPrinciples": ["autonomy", "privacy", "accountability"],
+  "license": "Open Government Licence – EU",
+  "origin": "external",
+  "contentBlocks": [
+    {
+      "id": "block00004a",
+      "excerpt": "Where processing is based on consent, the controller shall be able to demonstrate that the data subject has consented to processing of his or her personal data.",
+      "rationale": "Mandates that consent in digital systems must be demonstrable and cannot be assumed.",
+      "weight": 1.0,
+      "notes": "This article is often cited in AI, marketing, and platform design discussions."
+    }
+  ]
+}

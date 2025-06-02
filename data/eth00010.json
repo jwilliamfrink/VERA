@@ -1,0 +1,34 @@
+{
+  "id": "eth00010",
+  "title": "UN Guiding Principles – Corporate Human Rights Responsibility",
+  "titleKey": "ungpCorporateHumanRights",
+  "type": "internationalPrinciple",
+  "status": "proposed",
+  "history": [
+    {
+      "changedFrom": "",
+      "changedTo": "proposed",
+      "changeDate": "2025-06-02"
+    }
+  ],
+  "source": {
+    "url": "https://www.ohchr.org/documents/publications/guidingprinciplesbusinesshr_en.pdf",
+    "publisher": "Office of the United Nations High Commissioner for Human Rights (OHCHR)",
+    "retrievedDate": "2025-06-02"
+  },
+  "jurisdiction": "global",
+  "applicability": ["loyalty", "obligation", "corporateResponsibility"],
+  "tags": ["businessEthics", "humanRights", "dueDiligence"],
+  "universalPrinciples": ["accountability", "protection", "justice"],
+  "license": "UN Publication",
+  "origin": "external",
+  "contentBlocks": [
+    {
+      "id": "block00010a",
+      "excerpt": "Business enterprises should respect human rights. This means they should avoid infringing on the human rights of others and should address adverse human rights impacts with which they are involved.",
+      "rationale": "Defines ethical obligation in terms of active responsibility—not just intent but consequence—and links institutional power with moral accountability.",
+      "weight": 1.0,
+      "notes": "Widely adopted in ESG frameworks, AI governance, and global supply chain ethics."
+    }
+  ]
+}

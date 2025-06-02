@@ -1,0 +1,34 @@
+{
+  "id": "eth00024",
+  "title": "IEEE Ethically Aligned Design – Prioritize Human Well-being",
+  "titleKey": "ieeeHumanCenteredAI",
+  "type": "industryGuidance",
+  "status": "proposed",
+  "history": [
+    {
+      "changedFrom": "",
+      "changedTo": "proposed",
+      "changeDate": "2025-06-02"
+    }
+  ],
+  "source": {
+    "url": "https://standards.ieee.org/industry-connections/ec/autonomous-systems.html",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "retrievedDate": "2025-06-02"
+  },
+  "jurisdiction": "global",
+  "applicability": ["autonomousSystems", "aiEthics", "wellbeing"],
+  "tags": ["humanCenteredDesign", "sustainability", "digitalResponsibility"],
+  "universalPrinciples": ["nonmaleficence", "fairness", "accountability"],
+  "license": "IEEE Industry Connections Open Access",
+  "origin": "external",
+  "contentBlocks": [
+    {
+      "id": "block00024a",
+      "excerpt": "Technological innovation should advance human well-being. AIs and autonomous systems (A/AS) should be designed and operated to respect and improve human health, environmental sustainability, and social and economic flourishing.",
+      "rationale": "Defines the overarching ethical purpose of intelligent systems as improving—not undermining—human and planetary well-being.",
+      "weight": 1.0,
+      "notes": "Widely used in AI policy development, academic AI ethics programs, and international tech governance efforts."
+    }
+  ]
+}

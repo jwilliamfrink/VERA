@@ -1,0 +1,34 @@
+{
+  "id": "eth00015",
+  "title": "ICRC Code of Conduct – Humanitarian Imperative and Trade-offs",
+  "titleKey": "icrcHumanitarianPrinciples",
+  "type": "internationalCode",
+  "status": "proposed",
+  "history": [
+    {
+      "changedFrom": "",
+      "changedTo": "proposed",
+      "changeDate": "2025-06-02"
+    }
+  ],
+  "source": {
+    "url": "https://www.icrc.org/en/doc/assets/files/publications/icrc-002-1067.pdf",
+    "publisher": "International Committee of the Red Cross",
+    "retrievedDate": "2025-06-02"
+  },
+  "jurisdiction": "global",
+  "applicability": ["ethicalConflicts", "neutrality", "crisisEthics"],
+  "tags": ["impartiality", "humanitarianLaw", "conflictResolution"],
+  "universalPrinciples": ["beneficence", "impartiality", "dignity"],
+  "license": "ICRC Public Ethics Charter",
+  "origin": "external",
+  "contentBlocks": [
+    {
+      "id": "block00015a",
+      "excerpt": "The humanitarian imperative comes first… Aid is given regardless of the race, creed or nationality of the recipients and without adverse distinction of any kind. Aid priorities are calculated on the basis of need alone.",
+      "rationale": "Establishes a values hierarchy for action under ethical conflict—need overrides bias, identity, or politics.",
+      "weight": 1.0,
+      "notes": "Operational principle for global relief agencies when faced with difficult trade-offs in the field."
+    }
+  ]
+}

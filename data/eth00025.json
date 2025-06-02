@@ -1,0 +1,34 @@
+{
+  "id": "eth00025",
+  "title": "Yogyakarta Principles – Equality and Non-Discrimination",
+  "titleKey": "yogyakartaLGBTQEquality",
+  "type": "internationalGuidance",
+  "status": "proposed",
+  "history": [
+    {
+      "changedFrom": "",
+      "changedTo": "proposed",
+      "changeDate": "2025-06-02"
+    }
+  ],
+  "source": {
+    "url": "https://yogyakartaprinciples.org/principles-en/",
+    "publisher": "Yogyakarta Principles Initiative",
+    "retrievedDate": "2025-06-02"
+  },
+  "jurisdiction": "global",
+  "applicability": ["lgbtqRights", "nonDiscrimination", "equality"],
+  "tags": ["genderIdentity", "sexualOrientation", "humanRights", "inclusion"],
+  "universalPrinciples": ["equality", "inclusion", "nonDiscrimination"],
+  "license": "Open Human Rights Source",
+  "origin": "external",
+  "contentBlocks": [
+    {
+      "id": "block00025a",
+      "excerpt": "Everyone is entitled to enjoy all human rights without discrimination on the basis of sexual orientation or gender identity. States shall take all necessary legislative, administrative and other measures to ensure that everyone, regardless of sexual orientation or gender identity, enjoys equal treatment and protection under the law…",
+      "rationale": "Affirms the full scope of human rights protections for LGBTQ+ people and defines clear obligations for states to eliminate discriminatory practices and laws.",
+      "weight": 1.0,
+      "notes": "Used by international courts, UN agencies, and human rights commissions to guide LGBTQ+ inclusion policies and legal protections."
+    }
+  ]
+}

@@ -1,0 +1,1155 @@
+[
+  {
+    "id": "eth001",
+    "title": "WHO Definition of Health",
+    "type": "externalPrinciple",
+    "status": "proposed",
+    "history": [
+      {
+        "changedFrom": "",
+        "changedTo": "proposed",
+        "changeDate": "2025-06-02"
+      }
+    ],
+    "source": {
+      "url": "https://www.who.int/about/governance/constitution",
+      "publisher": "World Health Organization",
+      "retrievedDate": "2025-06-01"
+    },
+    "jurisdiction": "global",
+    "applicability": [
+      "harm",
+      "wellbeing",
+      "healthStandards"
+    ],
+    "tags": [
+      "health",
+      "humanRights",
+      "global"
+    ],
+    "universalPrinciples": [
+      "wellbeing",
+      "dignity",
+      "nonmaleficence"
+    ],
+    "license": "Public Domain",
+    "origin": "external",
+    "contentBlocks": [
+      {
+        "id": "block001a",
+        "excerpt": "Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity.",
+        "rationale": "Defines well-being holistically, beyond clinical illness.",
+        "weight": 1.0,
+        "notes": "Core definition adopted by international health bodies."
+      }
+    ]
+  },
+  {
+    "id": "eth002",
+    "title": "UDHR Article 25 \u2013 Right to Health and Well-being",
+    "type": "legalFramework",
+    "status": "proposed",
+    "history": [
+      {
+        "changedFrom": "",
+        "changedTo": "proposed",
+        "changeDate": "2025-06-02"
+      }
+    ],
+    "source": {
+      "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights",
+      "publisher": "United Nations",
+      "retrievedDate": "2025-06-01"
+    },
+    "jurisdiction": "global",
+    "applicability": [
+      "harm",
+      "wellbeing",
+      "socialRights"
+    ],
+    "tags": [
+      "humanRights",
+      "health",
+      "standardOfLiving"
+    ],
+    "universalPrinciples": [
+      "wellbeing",
+      "justice",
+      "protection"
+    ],
+    "license": "UN Universal Declaration",
+    "origin": "external",
+    "contentBlocks": [
+      {
+        "id": "block002a",
+        "excerpt": "Everyone has the right to a standard of living adequate for the health and well-being of himself and of his family...",
+        "rationale": "Links health and well-being to socio-economic rights.",
+        "weight": 0.1,
+        "notes": "Foundational text in international human rights law."
+      }
+    ]
+  },
+  {
+    "id": "eth00003",
+    "title": "Belmont Report \u2013 Informed Consent",
+    "titleKey": "belmontReportInformedConsent",
+    "type": "externalPrinciple",
+    "status": "proposed",
+    "history": [
+      {
+        "changedFrom": "",
+        "changedTo": "proposed",
+        "changeDate": "2025-06-02"
+      }
+    ],
+    "source": {
+      "url": "https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html",
+      "publisher": "U.S. Department of Health & Human Services",
+      "retrievedDate": "2025-06-02"
+    },
+    "jurisdiction": "unitedStates",
+    "applicability": [
+      "consent",
+      "autonomy",
+      "researchEthics",
+      "medicalEthics"
+    ],
+    "tags": [
+      "bioethics",
+      "humanSubjects",
+      "researchGuidelines"
+    ],
+    "universalPrinciples": [
+      "autonomy",
+      "protection",
+      "dignity"
+    ],
+    "license": "Public Domain (US Federal)",
+    "origin": "external",
+    "contentBlocks": [
+      {
+        "id": "block00003a",
+        "excerpt": "Respect for persons incorporates at least two ethical convictions: first, that individuals should be treated as autonomous agents, and second, that persons with diminished autonomy are entitled to protection.",
+        "rationale": "Establishes informed consent as a moral and ethical imperative, especially in research involving human subjects.",
+        "weight": 1.0,
+        "notes": "Forms the basis of modern consent requirements in U.S. health and research policy."
+      }
+    ]
+  },
+  {
+    "id": "eth00004",
+    "title": "GDPR Article 7 \u2013 Consent Requirements",
+    "titleKey": "gdprConsentRequirements",
+    "type": "legalFramework",
+    "status": "proposed",
+    "history": [
+      {
+        "changedFrom": "",
+        "changedTo": "proposed",
+        "changeDate": "2025-06-02"
+      }
+    ],
+    "source": {
+      "url": "https://gdpr.eu/article-7-how-to-obtain-consent/",
+      "publisher": "EU GDPR",
+      "retrievedDate": "2025-06-02"
+    },
+    "jurisdiction": "EU",
+    "applicability": [
+      "consent",
+      "privacy",
+      "dataRights"
+    ],
+    "tags": [
+      "gdpr",
+      "compliance",
+      "digitalRights"
+    ],
+    "universalPrinciples": [
+      "autonomy",
+      "privacy",
+      "accountability"
+    ],
+    "license": "Open Government Licence \u2013 EU",
+    "origin": "external",
+    "contentBlocks": [
+      {
+        "id": "block00004a",
+        "excerpt": "Where processing is based on consent, the controller shall be able to demonstrate that the data subject has consented to processing of his or her personal data.",
+        "rationale": "Mandates that consent in digital systems must be demonstrable and cannot be assumed.",
+        "weight": 1.0,
+        "notes": "This article is often cited in AI, marketing, and platform design discussions."
+      }
+    ]
+  },
+  {
+    "id": "eth00005",
+    "title": "Rawls' Theory of Justice \u2013 Fair Equality of Opportunity",
+    "titleKey": "rawlsFairOpportunity",
+    "type": "philosophicalFramework",
+    "status": "proposed",
+    "history": [
+      {
+        "changedFrom": "",
+        "changedTo": "proposed",
+        "changeDate": "2025-06-02"
+      }
+    ],
+    "source": {
+      "url": "https://plato.stanford.edu/entries/rawls/",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "retrievedDate": "2025-06-02"
+    },
+    "jurisdiction": "universal",
+    "applicability": [
+      "justice",
+      "fairness",
+      "opportunity"
+    ],
+    "tags": [
+      "inequality",
+      "ethics",
+      "socialJustice"
+    ],
+    "universalPrinciples": [
+      "equality",
+      "fairness",
+      "justice"
+    ],
+    "license": "CC BY-NC",
+    "origin": "external",
+    "contentBlocks": [
+      {
+        "id": "block00005a",
+        "excerpt": "Social and economic inequalities are to be arranged so that they are both (a) to the greatest benefit of the least advantaged... and (b) attached to offices and positions open to all under conditions of fair equality of opportunity.",
+        "rationale": "Defines fairness as structured access, not equal outcomes; deeply influential in modern policy ethics.",
+        "weight": 1.0,
+        "notes": "Often cited in diversity, equity, and systemic bias discourse."
+      }
+    ]
+  },
+  {
+    "id": "eth00006",
+    "title": "South African Truth and Reconciliation Commission",
+    "titleKey": "truthAndReconciliationSA",
+    "type": "caseStudy",
+    "status": "proposed",
+    "history": [
+      {
+        "changedFrom": "",
+        "changedTo": "proposed",
+        "changeDate": "2025-06-02"
+      }
+    ],
+    "source": {
+      "url": "https://www.justice.gov.za/trc/",
+      "publisher": "South African Department of Justice",
+      "retrievedDate": "2025-06-02"
+    },
+    "jurisdiction": "southAfrica",
+    "applicability": [
+      "justice",
+      "restorativeJustice",
+      "postConflictEthics"
+    ],
+    "tags": [
+      "reconciliation",
+      "truthTelling",
+      "equity"
+    ],
+    "universalPrinciples": [
+      "justice",
+      "dignity",
+      "solidarity"
+    ],
+    "license": "Public Record (South Africa)",
+    "origin": "external",
+    "contentBlocks": [
+      {
+        "id": "block00006a",
+        "excerpt": "Reconciliation does not mean forgetting or trying to bury the pain of conflict, but that reconciliation means working together to correct the legacy of past injustice.",
+        "rationale": "Emphasizes justice as an active, collaborative process of healing rather than punishment.",
+        "weight": 1.0,
+        "notes": "Serves as a model for post-conflict ethics in global transitional justice work."
+      }
+    ]
+  },
+  {
+    "id": "eth00007",
+    "title": "SPJ Code of Ethics \u2013 Seek Truth and Report It",
+    "titleKey": "spjTruthAndReport",
+    "type": "professionalCode",
+    "status": "proposed",
+    "history": [
+      {
+        "changedFrom": "",
+        "changedTo": "proposed",
+        "changeDate": "2025-06-02"
+      }
+    ],
+    "source": {
+      "url": "https://www.spj.org/ethicscode.asp",
+      "publisher": "Society of Professional Journalists",
+      "retrievedDate": "2025-06-02"
+    },
+    "jurisdiction": "unitedStates",
+    "applicability": [
+      "truth",
+      "informationEthics",
+      "mediaIntegrity"
+    ],
+    "tags": [
+      "journalism",
+      "transparency",
+      "accountability"
+    ],
+    "universalPrinciples": [
+      "truthfulness",
+      "accountability",
+      "transparency"
+    ],
+    "license": "SPJ Code of Ethics",
+    "origin": "external",
+    "contentBlocks": [
+      {
+        "id": "block00007a",
+        "excerpt": "Ethical journalism should be accurate and fair. Journalists should be honest and courageous in gathering, reporting and interpreting information.",
+        "rationale": "Defines ethical truth-seeking as the foundation of responsible journalism and public trust.",
+        "weight": 1.0,
+        "notes": "Referenced widely in newsrooms, journalism education, and press freedom advocacy."
+      }
+    ]
+  },
+  {
+    "id": "eth00008",
+    "title": "UNESCO Global Declaration on Information Ethics",
+    "titleKey": "unescoInformationEthics",
+    "type": "internationalDeclaration",
+    "status": "proposed",
+    "history": [
+      {
+        "changedFrom": "",
+        "changedTo": "proposed",
+        "changeDate": "2025-06-02"
+      }
+    ],
+    "source": {
+      "url": "https://unesdoc.unesco.org/ark:/48223/pf0000377257",
+      "publisher": "UNESCO",
+      "retrievedDate": "2025-06-02"
+    },
+    "jurisdiction": "global",
+    "applicability": [
+      "truth",
+      "informationEthics",
+      "digitalRights"
+    ],
+    "tags": [
+      "unesco",
+      "accessToInformation",
+      "equity"
+    ],
+    "universalPrinciples": [
+      "autonomy",
+      "truthfulness",
+      "equality"
+    ],
+    "license": "Creative Commons Attribution",
+    "origin": "external",
+    "contentBlocks": [
+      {
+        "id": "block00008a",
+        "excerpt": "Information ethics is rooted in the respect for human dignity, autonomy, and the right of all people to access, create, share, and benefit from information and knowledge.",
+        "rationale": "Defines ethical standards for digital and global information systems, rooted in access and equity.",
+        "weight": 1.0,
+        "notes": "Framing document for global information justice in the 21st century."
+      }
+    ]
+  },
+  {
+    "id": "eth00009",
+    "title": "UNESCO Declaration \u2013 Social Responsibility and Health",
+    "titleKey": "unescoSocialResponsibility",
+    "type": "internationalDeclaration",
+    "status": "proposed",
+    "history": [
+      {
+        "changedFrom": "",
+        "changedTo": "proposed",
+        "changeDate": "2025-06-02"
+      }
+    ],
+    "source": {
+      "url": "https://unesdoc.unesco.org/ark:/48223/pf0000146180",
+      "publisher": "UNESCO",
+      "retrievedDate": "2025-06-02"
+    },
+    "jurisdiction": "global",
+    "applicability": [
+      "loyalty",
+      "obligation",
+      "publicEthics"
+    ],
+    "tags": [
+      "health",
+      "collectiveResponsibility",
+      "governance"
+    ],
+    "universalPrinciples": [
+      "solidarity",
+      "protection",
+      "beneficence"
+    ],
+    "license": "UNESCO Open Access",
+    "origin": "external",
+    "contentBlocks": [
+      {
+        "id": "block00009a",
+        "excerpt": "The promotion of health and social development for their people is a central purpose of governments that all sectors of society share.",
+        "rationale": "Defines shared responsibility between institutions and individuals as an ethical obligation toward societal well-being.",
+        "weight": 1.0,
+        "notes": "From Article 14 of the UNESCO Universal Declaration on Bioethics and Human Rights (2005)."
+      }
+    ]
+  },
+  {
+    "id": "eth00010",
+    "title": "UN Guiding Principles \u2013 Corporate Human Rights Responsibility",
+    "titleKey": "ungpCorporateHumanRights",
+    "type": "internationalPrinciple",
+    "status": "proposed",
+    "history": [
+      {
+        "changedFrom": "",
+        "changedTo": "proposed",
+        "changeDate": "2025-06-02"
+      }
+    ],
+    "source": {
+      "url": "https://www.ohchr.org/documents/publications/guidingprinciplesbusinesshr_en.pdf",
+      "publisher": "Office of the United Nations High Commissioner for Human Rights (OHCHR)",
+      "retrievedDate": "2025-06-02"
+    },
+    "jurisdiction": "global",
+    "applicability": [
+      "loyalty",
+      "obligation",
+      "corporateResponsibility"
+    ],
+    "tags": [
+      "businessEthics",
+      "humanRights",
+      "dueDiligence"
+    ],
+    "universalPrinciples": [
+      "accountability",
+      "protection",
+      "justice"
+    ],
+    "license": "UN Publication",
+    "origin": "external",
+    "contentBlocks": [
+      {
+        "id": "block00010a",
+        "excerpt": "Business enterprises should respect human rights. This means they should avoid infringing on the human rights of others and should address adverse human rights impacts with which they are involved.",
+        "rationale": "Defines ethical obligation in terms of active responsibility\u2014not just intent but consequence\u2014and links institutional power with moral accountability.",
+        "weight": 1.0,
+        "notes": "Widely adopted in ESG frameworks, AI governance, and global supply chain ethics."
+      }
+    ]
+  },
+  {
+    "id": "eth00011",
+    "title": "IPCC AR6 \u2013 Human-Caused Climate Change",
+    "titleKey": "ipccHumanClimateImpact",
+    "type": "scientificConsensus",
+    "status": "proposed",
+    "history": [
+      {
+        "changedFrom": "",
+        "changedTo": "proposed",
+        "changeDate": "2025-06-02"
+      }
+    ],
+    "source": {
+      "url": "https://www.ipcc.ch/report/ar6/syr/",
+      "publisher": "Intergovernmental Panel on Climate Change (IPCC)",
+      "retrievedDate": "2025-06-02"
+    },
+    "jurisdiction": "global",
+    "applicability": [
+      "environment",
+      "climate",
+      "responsibility"
+    ],
+    "tags": [
+      "climateChange",
+      "greenhouseGas",
+      "sustainability"
+    ],
+    "universalPrinciples": [
+      "responsibility",
+      "sustainability",
+      "nonmaleficence"
+    ],
+    "license": "Creative Commons BY-NC-SA 3.0 IGO",
+    "origin": "external",
+    "contentBlocks": [
+      {
+        "id": "block00011a",
+        "excerpt": "Human activities, principally through emissions of greenhouse gases, have unequivocally caused global warming, with widespread and rapid changes in the atmosphere, ocean, cryosphere and biosphere.",
+        "rationale": "Establishes a direct ethical linkage between human action and planetary harm, triggering responsibilities across sectors and generations.",
+        "weight": 1.0,
+        "notes": "Foundational in environmental ethics, policy, and science-based climate responsibility."
+      }
+    ]
+  },
+  {
+    "id": "eth00012",
+    "title": "Paris Agreement \u2013 Climate Responsibility and Human Rights",
+    "titleKey": "parisClimateJustice",
+    "type": "internationalTreaty",
+    "status": "proposed",
+    "history": [
+      {
+        "changedFrom": "",
+        "changedTo": "proposed",
+        "changeDate": "2025-06-02"
+      }
+    ],
+    "source": {
+      "url": "https://unfccc.int/sites/default/files/english_paris_agreement.pdf",
+      "publisher": "United Nations Framework Convention on Climate Change (UNFCCC)",
+      "retrievedDate": "2025-06-02"
+    },
+    "jurisdiction": "global",
+    "applicability": [
+      "environment",
+      "climate",
+      "dutyOfCare"
+    ],
+    "tags": [
+      "climateJustice",
+      "humanRights",
+      "environmentalEthics"
+    ],
+    "universalPrinciples": [
+      "equity",
+      "intergenerationalJustice",
+      "dutyOfCare"
+    ],
+    "license": "UN Treaty",
+    "origin": "external",
+    "contentBlocks": [
+      {
+        "id": "block00012a",
+        "excerpt": "Acknowledging that climate change is a common concern of humankind, Parties should, when taking action to address climate change, respect, promote and consider their respective obligations on human rights, the right to health, the rights of indigenous peoples, local communities, migrants, children, persons with disabilities and people in vulnerable situations and the right to development, as well as gender equality, empowerment of women and intergenerational equity.",
+        "rationale": "Establishes climate action as an ethical mandate tied to rights, equity, and long-term care, not just emissions control.",
+        "weight": 1.0,
+        "notes": "Used widely in ESG frameworks and global climate justice policies."
+      }
+    ]
+  },
+  {
+    "id": "eth00013",
+    "title": "UDHR Article 18 \u2013 Freedom of Thought, Conscience, and Religion",
+    "titleKey": "udhrFreedomOfReligion",
+    "type": "legalFramework",
+    "status": "proposed",
+    "history": [
+      {
+        "changedFrom": "",
+        "changedTo": "proposed",
+        "changeDate": "2025-06-02"
+      }
+    ],
+    "source": {
+      "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights",
+      "publisher": "United Nations",
+      "retrievedDate": "2025-06-02"
+    },
+    "jurisdiction": "global",
+    "applicability": [
+      "beliefSystems",
+      "sacredness",
+      "freedom"
+    ],
+    "tags": [
+      "humanRights",
+      "religion",
+      "expression"
+    ],
+    "universalPrinciples": [
+      "freedom",
+      "autonomy",
+      "dignity"
+    ],
+    "license": "UN Universal Declaration",
+    "origin": "external",
+    "contentBlocks": [
+      {
+        "id": "block00013a",
+        "excerpt": "Everyone has the right to freedom of thought, conscience and religion; this right includes freedom to change his religion or belief, and freedom, either alone or in community with others and in public or private, to manifest his religion or belief in teaching, practice, worship and observance.",
+        "rationale": "Defines a broad and inclusive human right to belief and spiritual autonomy, essential in pluralistic societies.",
+        "weight": 1.0,
+        "notes": "A foundational right recognized in nearly all modern constitutions and international treaties."
+      }
+    ]
+  },
+  {
+    "id": "eth00014",
+    "title": "UN Human Rights Committee \u2013 Religious Freedom for All Belief Systems",
+    "titleKey": "iccprCommentReligiousFreedom",
+    "type": "internationalCommentary",
+    "status": "proposed",
+    "history": [
+      {
+        "changedFrom": "",
+        "changedTo": "proposed",
+        "changeDate": "2025-06-02"
+      }
+    ],
+    "source": {
+      "url": "https://www.refworld.org/docid/453883fb22.html",
+      "publisher": "UN Human Rights Committee",
+      "retrievedDate": "2025-06-02"
+    },
+    "jurisdiction": "global",
+    "applicability": [
+      "sacredness",
+      "pluralism",
+      "beliefSystems"
+    ],
+    "tags": [
+      "religiousFreedom",
+      "tolerance",
+      "minorityRights"
+    ],
+    "universalPrinciples": [
+      "pluralism",
+      "tolerance",
+      "freedom"
+    ],
+    "license": "Public Document",
+    "origin": "external",
+    "contentBlocks": [
+      {
+        "id": "block00014a",
+        "excerpt": "Article 18 is not limited in its application to traditional religions or to religions and beliefs with institutional characteristics or practices\u2026 The freedom of thought, conscience and religion is far-reaching and profound; it encompasses freedom of thought on all matters, personal conviction and the commitment to religion or belief, whether manifested individually or in community with others.",
+        "rationale": "Affirms the protection of religious and spiritual diversity\u2014including nontraditional, marginalized, and informal belief systems.",
+        "weight": 1.0,
+        "notes": "Authoritative interpretation of the ICCPR, widely used in legal and international human rights advocacy."
+      }
+    ]
+  },
+  {
+    "id": "eth00015",
+    "title": "ICRC Code of Conduct \u2013 Humanitarian Imperative and Trade-offs",
+    "titleKey": "icrcHumanitarianPrinciples",
+    "type": "internationalCode",
+    "status": "proposed",
+    "history": [
+      {
+        "changedFrom": "",
+        "changedTo": "proposed",
+        "changeDate": "2025-06-02"
+      }
+    ],
+    "source": {
+      "url": "https://www.icrc.org/en/doc/assets/files/publications/icrc-002-1067.pdf",
+      "publisher": "International Committee of the Red Cross",
+      "retrievedDate": "2025-06-02"
+    },
+    "jurisdiction": "global",
+    "applicability": [
+      "ethicalConflicts",
+      "neutrality",
+      "crisisEthics"
+    ],
+    "tags": [
+      "impartiality",
+      "humanitarianLaw",
+      "conflictResolution"
+    ],
+    "universalPrinciples": [
+      "beneficence",
+      "impartiality",
+      "dignity"
+    ],
+    "license": "ICRC Public Ethics Charter",
+    "origin": "external",
+    "contentBlocks": [
+      {
+        "id": "block00015a",
+        "excerpt": "The humanitarian imperative comes first\u2026 Aid is given regardless of the race, creed or nationality of the recipients and without adverse distinction of any kind. Aid priorities are calculated on the basis of need alone.",
+        "rationale": "Establishes a values hierarchy for action under ethical conflict\u2014need overrides bias, identity, or politics.",
+        "weight": 1.0,
+        "notes": "Operational principle for global relief agencies when faced with difficult trade-offs in the field."
+      }
+    ]
+  },
+  {
+    "id": "eth00016",
+    "title": "UNDRIP Article 19 \u2013 Indigenous Consent and Self-Determination",
+    "titleKey": "undripConsent",
+    "type": "internationalDeclaration",
+    "status": "proposed",
+    "history": [
+      {
+        "changedFrom": "",
+        "changedTo": "proposed",
+        "changeDate": "2025-06-02"
+      }
+    ],
+    "source": {
+      "url": "https://www.un.org/development/desa/indigenouspeoples/declaration-on-the-rights-of-indigenous-peoples.html",
+      "publisher": "United Nations",
+      "retrievedDate": "2025-06-02"
+    },
+    "jurisdiction": "global",
+    "applicability": [
+      "consent",
+      "autonomy",
+      "selfDetermination"
+    ],
+    "tags": [
+      "indigenousRights",
+      "fpic",
+      "sovereignty"
+    ],
+    "universalPrinciples": [
+      "autonomy",
+      "consent",
+      "selfDetermination"
+    ],
+    "license": "UN Declaration",
+    "origin": "external",
+    "contentBlocks": [
+      {
+        "id": "block00016a",
+        "excerpt": "States shall consult and cooperate in good faith with the indigenous peoples concerned through their own representative institutions in order to obtain their free, prior and informed consent before adopting and implementing legislative or administrative measures that may affect them.",
+        "rationale": "Sets a global ethical standard for obtaining consent from marginalized communities before imposing external policies or development.",
+        "weight": 1.0,
+        "notes": "Used in land use, extractive industries, AI deployment, and human rights compliance frameworks."
+      }
+    ]
+  },
+  {
+    "id": "eth00017",
+    "title": "CEDAW Article 1 \u2013 Definition of Discrimination Against Women",
+    "titleKey": "cedawWomensRightsDefinition",
+    "type": "internationalTreaty",
+    "status": "proposed",
+    "history": [
+      {
+        "changedFrom": "",
+        "changedTo": "proposed",
+        "changeDate": "2025-06-02"
+      }
+    ],
+    "source": {
+      "url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-elimination-all-forms-discrimination-against-women",
+      "publisher": "United Nations Office of the High Commissioner for Human Rights (OHCHR)",
+      "retrievedDate": "2025-06-02"
+    },
+    "jurisdiction": "global",
+    "applicability": [
+      "genderEquality",
+      "nonDiscrimination",
+      "humanRights"
+    ],
+    "tags": [
+      "womensRights",
+      "equity",
+      "internationalLaw"
+    ],
+    "universalPrinciples": [
+      "equality",
+      "nonDiscrimination",
+      "humanRights"
+    ],
+    "license": "UN Treaty",
+    "origin": "external",
+    "contentBlocks": [
+      {
+        "id": "block00017a",
+        "excerpt": "For the purposes of the present Convention, the term \u2018discrimination against women\u2019 shall mean any distinction, exclusion or restriction made on the basis of sex which has the effect or purpose of impairing or nullifying the recognition, enjoyment or exercise by women... of human rights and fundamental freedoms in the political, economic, social, cultural, civil or any other field.",
+        "rationale": "Provides a universal, legal definition of discrimination against women as a framework for ethical policy, law, and advocacy.",
+        "weight": 1.0,
+        "notes": "Adopted by over 180 countries; foundational to modern gender justice frameworks."
+      }
+    ]
+  },
+  {
+    "id": "eth00018",
+    "title": "HIPAA Privacy Rule \u2013 Right to Access Health Information",
+    "titleKey": "hipaaRightOfAccess",
+    "type": "regulation",
+    "status": "proposed",
+    "history": [
+      {
+        "changedFrom": "",
+        "changedTo": "proposed",
+        "changeDate": "2025-06-02"
+      }
+    ],
+    "source": {
+      "url": "https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/access/index.html",
+      "publisher": "U.S. Department of Health & Human Services (HHS)",
+      "retrievedDate": "2025-06-02"
+    },
+    "jurisdiction": "unitedStates",
+    "applicability": [
+      "privacy",
+      "healthData",
+      "informedConsent"
+    ],
+    "tags": [
+      "hipaa",
+      "patientRights",
+      "dataAccess"
+    ],
+    "universalPrinciples": [
+      "privacy",
+      "autonomy",
+      "accountability"
+    ],
+    "license": "Public Law",
+    "origin": "external",
+    "contentBlocks": [
+      {
+        "id": "block00018a",
+        "excerpt": "Except as otherwise provided\u2026, an individual has a right of access to inspect and obtain a copy of protected health information about the individual\u2026 for as long as the information is maintained in the designated record set.",
+        "rationale": "Establishes legal and ethical rights of individuals to control, view, and retrieve their health data.",
+        "weight": 1.0,
+        "notes": "Central to healthcare transparency, digital health ethics, and personal data governance in the U.S."
+      }
+    ]
+  },
+  {
+    "id": "eth00019",
+    "title": "Nuremberg Code \u2013 Voluntary Consent in Human Research",
+    "titleKey": "nurembergVoluntaryConsent",
+    "type": "historicalCharter",
+    "status": "proposed",
+    "history": [
+      {
+        "changedFrom": "",
+        "changedTo": "proposed",
+        "changeDate": "2025-06-02"
+      }
+    ],
+    "source": {
+      "url": "https://history.nih.gov/display/history/Nuremberg+Code",
+      "publisher": "U.S. National Institutes of Health",
+      "retrievedDate": "2025-06-02"
+    },
+    "jurisdiction": "global",
+    "applicability": [
+      "informedConsent",
+      "medicalResearch",
+      "humanRights"
+    ],
+    "tags": [
+      "bioethics",
+      "clinicalTrials",
+      "humanSubjects"
+    ],
+    "universalPrinciples": [
+      "informedConsent",
+      "autonomy",
+      "protection"
+    ],
+    "license": "Public Domain",
+    "origin": "external",
+    "contentBlocks": [
+      {
+        "id": "block00019a",
+        "excerpt": "The voluntary consent of the human subject is absolutely essential. This means that the person involved should have legal capacity to give consent; should be so situated as to be able to exercise free power of choice, without the intervention of any element of force, fraud, deceit, duress, over-reaching, or other ulterior form of constraint or coercion; and should have sufficient knowledge and comprehension of the elements of the subject matter involved as to enable him to make an understanding and enlightened decision.",
+        "rationale": "Formally defines voluntary, informed consent as a core ethical requirement in human subject research.",
+        "weight": 1.0,
+        "notes": "First drafted during the Nuremberg Trials; widely cited in research ethics and international law."
+      }
+    ]
+  },
+  {
+    "id": "eth00021",
+    "title": "Belmont Report \u2013 Respect for Persons",
+    "titleKey": "belmontRespectForPersons",
+    "type": "bioethicsReport",
+    "status": "proposed",
+    "history": [
+      {
+        "changedFrom": "",
+        "changedTo": "proposed",
+        "changeDate": "2025-06-02"
+      }
+    ],
+    "source": {
+      "url": "https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html",
+      "publisher": "U.S. Department of Health & Human Services",
+      "retrievedDate": "2025-06-02"
+    },
+    "jurisdiction": "unitedStates",
+    "applicability": [
+      "autonomy",
+      "informedConsent",
+      "protectionOfVulnerable"
+    ],
+    "tags": [
+      "researchEthics",
+      "humanSubjects",
+      "bioethics"
+    ],
+    "universalPrinciples": [
+      "autonomy",
+      "protection",
+      "respect"
+    ],
+    "license": "Public Domain",
+    "origin": "external",
+    "contentBlocks": [
+      {
+        "id": "block00021a",
+        "excerpt": "Respect for persons incorporates at least two ethical convictions: first, that individuals should be treated as autonomous agents, and second, that persons with diminished autonomy are entitled to protection.",
+        "rationale": "Articulates a dual ethical obligation: respect autonomy and protect those unable to fully exercise it.",
+        "weight": 1.0,
+        "notes": "One of the three core principles (alongside Beneficence and Justice) in U.S. research ethics."
+      }
+    ]
+  },
+  {
+    "id": "eth00022",
+    "title": "CRPD Article 3 \u2013 Principles of Disability Rights and Dignity",
+    "titleKey": "crpdDisabilityPrinciples",
+    "type": "internationalTreaty",
+    "status": "proposed",
+    "history": [
+      {
+        "changedFrom": "",
+        "changedTo": "proposed",
+        "changeDate": "2025-06-02"
+      }
+    ],
+    "source": {
+      "url": "https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html",
+      "publisher": "United Nations",
+      "retrievedDate": "2025-06-02"
+    },
+    "jurisdiction": "global",
+    "applicability": [
+      "disabilityRights",
+      "nonDiscrimination",
+      "dignity"
+    ],
+    "tags": [
+      "accessibility",
+      "autonomy",
+      "humanRights",
+      "disabilityJustice"
+    ],
+    "universalPrinciples": [
+      "equality",
+      "dignity",
+      "nonDiscrimination"
+    ],
+    "license": "UN Treaty",
+    "origin": "external",
+    "contentBlocks": [
+      {
+        "id": "block00022a",
+        "excerpt": "The principles of the present Convention shall be: (a) Respect for inherent dignity, individual autonomy including the freedom to make one\u2019s own choices, and independence of persons; (b) Non-discrimination; (c) Full and effective participation and inclusion in society; (d) Respect for difference and acceptance of persons with disabilities as part of human diversity and humanity; (e) Equality of opportunity; (f) Accessibility; (g) Equality between men and women; (h) Respect for the evolving capacities of children with disabilities and respect for the right of children with disabilities to preserve their identities.",
+        "rationale": "Comprehensive global ethical foundation for protecting and enabling full inclusion, equality, and autonomy for persons with disabilities.",
+        "weight": 1.0,
+        "notes": "Used by governments and institutions as a legal and ethical baseline for disability policy and inclusive design."
+      }
+    ]
+  },
+  {
+    "id": "eth00023",
+    "title": "ACM Code of Ethics \u2013 Avoid Harm and Be Fair",
+    "titleKey": "acmAvoidHarmBeFair",
+    "type": "professionalCode",
+    "status": "proposed",
+    "history": [
+      {
+        "changedFrom": "",
+        "changedTo": "proposed",
+        "changeDate": "2025-06-02"
+      }
+    ],
+    "source": {
+      "url": "https://www.acm.org/code-of-ethics",
+      "publisher": "Association for Computing Machinery (ACM)",
+      "retrievedDate": "2025-06-02"
+    },
+    "jurisdiction": "global",
+    "applicability": [
+      "technologyEthics",
+      "professionalConduct",
+      "equity"
+    ],
+    "tags": [
+      "fairness",
+      "nonMaleficence",
+      "digitalRights",
+      "techPolicy"
+    ],
+    "universalPrinciples": [
+      "dignity",
+      "autonomy",
+      "inclusion"
+    ],
+    "license": "ACM Ethical Code (Creative Commons BY-NC-SA)",
+    "origin": "external",
+    "contentBlocks": [
+      {
+        "id": "block00023a",
+        "excerpt": "Computing professionals should take action to avoid harm. Harm means negative consequences, especially when those consequences are significant and unjust. This includes both intentional harm and foreseeable risks\u2026 Computing professionals should treat all people fairly and with respect. Fairness includes equal treatment, opportunity, and access to resources.",
+        "rationale": "Establishes principles of fairness and harm reduction in computing and digital systems, applicable to AI, data, and platform governance.",
+        "weight": 1.0,
+        "notes": "Widely referenced in ethical audits, corporate tech charters, and software engineering curricula."
+      }
+    ]
+  },
+  {
+    "id": "eth00024",
+    "title": "IEEE Ethically Aligned Design \u2013 Prioritize Human Well-being",
+    "titleKey": "ieeeHumanCenteredAI",
+    "type": "industryGuidance",
+    "status": "proposed",
+    "history": [
+      {
+        "changedFrom": "",
+        "changedTo": "proposed",
+        "changeDate": "2025-06-02"
+      }
+    ],
+    "source": {
+      "url": "https://standards.ieee.org/industry-connections/ec/autonomous-systems.html",
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "retrievedDate": "2025-06-02"
+    },
+    "jurisdiction": "global",
+    "applicability": [
+      "autonomousSystems",
+      "aiEthics",
+      "wellbeing"
+    ],
+    "tags": [
+      "humanCenteredDesign",
+      "sustainability",
+      "digitalResponsibility"
+    ],
+    "universalPrinciples": [
+      "nonmaleficence",
+      "fairness",
+      "accountability"
+    ],
+    "license": "IEEE Industry Connections Open Access",
+    "origin": "external",
+    "contentBlocks": [
+      {
+        "id": "block00024a",
+        "excerpt": "Technological innovation should advance human well-being. AIs and autonomous systems (A/AS) should be designed and operated to respect and improve human health, environmental sustainability, and social and economic flourishing.",
+        "rationale": "Defines the overarching ethical purpose of intelligent systems as improving\u2014not undermining\u2014human and planetary well-being.",
+        "weight": 1.0,
+        "notes": "Widely used in AI policy development, academic AI ethics programs, and international tech governance efforts."
+      }
+    ]
+  },
+  {
+    "id": "eth00024",
+    "title": "ICERD Article 2 \u2013 Obligation to Eliminate Racial Discrimination",
+    "titleKey": "icerdArticle2EliminateDiscrimination",
+    "type": "internationalTreaty",
+    "status": "proposed",
+    "history": [
+      {
+        "changedFrom": "",
+        "changedTo": "proposed",
+        "changeDate": "2025-06-02"
+      }
+    ],
+    "source": {
+      "url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/international-convention-elimination-all-forms-racial-discrimination",
+      "publisher": "United Nations Office of the High Commissioner for Human Rights (OHCHR)",
+      "retrievedDate": "2025-06-02"
+    },
+    "jurisdiction": "global",
+    "applicability": [
+      "racialJustice",
+      "nonDiscrimination",
+      "governmentPolicy"
+    ],
+    "tags": [
+      "equity",
+      "civilRights",
+      "antiRacism",
+      "internationalLaw"
+    ],
+    "universalPrinciples": [
+      "equality",
+      "justice",
+      "antiRacism"
+    ],
+    "license": "UN Treaty",
+    "origin": "external",
+    "contentBlocks": [
+      {
+        "id": "block00024a",
+        "excerpt": "1. States Parties condemn racial discrimination and undertake to pursue by all appropriate means and without delay a policy of eliminating racial discrimination in all its forms and promoting understanding among all races, and, to this end: (a) Each State Party undertakes to engage in no act or practice of racial discrimination against persons, groups of persons or institutions and to ensure that all public authorities and public institutions, national and local, shall act in conformity with this obligation; (b) Each State Party undertakes not to sponsor, defend or support racial discrimination by any persons or organizations; (c) Each State Party shall take effective measures to review governmental, national and local policies, and to amend, rescind or nullify any laws and regulations which have the effect of creating or perpetuating racial discrimination wherever it exists; (d) Each State Party shall prohibit and bring to an end, by all appropriate means, including legislation as required by circumstances, racial discrimination by any persons, group or organization; (e) Each State Party undertakes to encourage, where appropriate, integrationist multiracial organizations and movements and other means of eliminating barriers between races, and to discourage anything which tends to strengthen racial division. 2. States Parties shall, when the circumstances so warrant, take, in the social, economic, cultural and other fields, special and concrete measures to ensure the adequate development and protection of certain racial groups or individuals belonging to them, for the purpose of guaranteeing them the full and equal enjoyment of human rights and fundamental freedoms. These measures shall in no case entail as a consequence the maintenance of unequal or separate rights for different racial groups after the objectives for which they were taken have been achieved.",
+        "rationale": "Directs states to eliminate racial discrimination through policy, legislation, and proactive social measures. It imposes a clear ethical and legal obligation to pursue equity, dismantle systemic racism, and promote multiracial understanding.",
+        "weight": 1.0,
+        "notes": "Foundational text in international anti-racism law; provides actionable guidance and mandates for national governments and institutions."
+      }
+    ]
+  },
+  {
+    "id": "eth00025",
+    "title": "Yogyakarta Principles \u2013 Equality and Non-Discrimination",
+    "titleKey": "yogyakartaLGBTQEquality",
+    "type": "internationalGuidance",
+    "status": "proposed",
+    "history": [
+      {
+        "changedFrom": "",
+        "changedTo": "proposed",
+        "changeDate": "2025-06-02"
+      }
+    ],
+    "source": {
+      "url": "https://yogyakartaprinciples.org/principles-en/",
+      "publisher": "Yogyakarta Principles Initiative",
+      "retrievedDate": "2025-06-02"
+    },
+    "jurisdiction": "global",
+    "applicability": [
+      "lgbtqRights",
+      "nonDiscrimination",
+      "equality"
+    ],
+    "tags": [
+      "genderIdentity",
+      "sexualOrientation",
+      "humanRights",
+      "inclusion"
+    ],
+    "universalPrinciples": [
+      "equality",
+      "inclusion",
+      "nonDiscrimination"
+    ],
+    "license": "Open Human Rights Source",
+    "origin": "external",
+    "contentBlocks": [
+      {
+        "id": "block00025a",
+        "excerpt": "Everyone is entitled to enjoy all human rights without discrimination on the basis of sexual orientation or gender identity. States shall take all necessary legislative, administrative and other measures to ensure that everyone, regardless of sexual orientation or gender identity, enjoys equal treatment and protection under the law\u2026",
+        "rationale": "Affirms the full scope of human rights protections for LGBTQ+ people and defines clear obligations for states to eliminate discriminatory practices and laws.",
+        "weight": 1.0,
+        "notes": "Used by international courts, UN agencies, and human rights commissions to guide LGBTQ+ inclusion policies and legal protections."
+      }
+    ]
+  }
+]

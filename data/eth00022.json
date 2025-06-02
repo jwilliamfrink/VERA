@@ -1,0 +1,34 @@
+{
+  "id": "eth00023",
+  "title": "ACM Code of Ethics – Avoid Harm and Be Fair",
+  "titleKey": "acmAvoidHarmBeFair",
+  "type": "professionalCode",
+  "status": "proposed",
+  "history": [
+    {
+      "changedFrom": "",
+      "changedTo": "proposed",
+      "changeDate": "2025-06-02"
+    }
+  ],
+  "source": {
+    "url": "https://www.acm.org/code-of-ethics",
+    "publisher": "Association for Computing Machinery (ACM)",
+    "retrievedDate": "2025-06-02"
+  },
+  "jurisdiction": "global",
+  "applicability": ["technologyEthics", "professionalConduct", "equity"],
+  "tags": ["fairness", "nonMaleficence", "digitalRights", "techPolicy"],
+  "universalPrinciples": ["dignity", "autonomy", "inclusion"],
+  "license": "ACM Ethical Code (Creative Commons BY-NC-SA)",
+  "origin": "external",
+  "contentBlocks": [
+    {
+      "id": "block00023a",
+      "excerpt": "Computing professionals should take action to avoid harm. Harm means negative consequences, especially when those consequences are significant and unjust. This includes both intentional harm and foreseeable risks… Computing professionals should treat all people fairly and with respect. Fairness includes equal treatment, opportunity, and access to resources.",
+      "rationale": "Establishes principles of fairness and harm reduction in computing and digital systems, applicable to AI, data, and platform governance.",
+      "weight": 1.0,
+      "notes": "Widely referenced in ethical audits, corporate tech charters, and software engineering curricula."
+    }
+  ]
+}

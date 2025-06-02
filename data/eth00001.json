@@ -1,0 +1,33 @@
+{
+  "id": "eth001",
+  "title": "WHO Definition of Health",
+  "type": "externalPrinciple",
+  "status": "proposed",
+  "history": [
+    {
+      "changedFrom": "",
+      "changedTo": "proposed",
+      "changeDate": "2025-06-02"
+    }
+  ],
+  "source": {
+    "url": "https://www.who.int/about/governance/constitution",
+    "publisher": "World Health Organization",
+    "retrievedDate": "2025-06-01"
+  },
+  "jurisdiction": "global",
+  "applicability": ["harm", "wellbeing", "healthStandards"],
+  "tags": ["health", "humanRights", "global"],
+  "universalPrinciples": ["wellbeing", "dignity", "nonmaleficence"],
+  "license": "Public Domain",
+  "origin": "external",
+  "contentBlocks": [
+    {
+      "id": "block001a",
+      "excerpt": "Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity.",
+      "rationale": "Defines well-being holistically, beyond clinical illness.",
+      "weight": 1.0,
+      "notes": "Core definition adopted by international health bodies."
+    }
+  ]
+}

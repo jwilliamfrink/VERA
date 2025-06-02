@@ -1,0 +1,34 @@
+{
+  "id": "eth00011",
+  "title": "IPCC AR6 – Human-Caused Climate Change",
+  "titleKey": "ipccHumanClimateImpact",
+  "type": "scientificConsensus",
+  "status": "proposed",
+  "history": [
+    {
+      "changedFrom": "",
+      "changedTo": "proposed",
+      "changeDate": "2025-06-02"
+    }
+  ],
+  "source": {
+    "url": "https://www.ipcc.ch/report/ar6/syr/",
+    "publisher": "Intergovernmental Panel on Climate Change (IPCC)",
+    "retrievedDate": "2025-06-02"
+  },
+  "jurisdiction": "global",
+  "applicability": ["environment", "climate", "responsibility"],
+  "tags": ["climateChange", "greenhouseGas", "sustainability"],
+  "universalPrinciples": ["responsibility", "sustainability", "nonmaleficence"],
+  "license": "Creative Commons BY-NC-SA 3.0 IGO",
+  "origin": "external",
+  "contentBlocks": [
+    {
+      "id": "block00011a",
+      "excerpt": "Human activities, principally through emissions of greenhouse gases, have unequivocally caused global warming, with widespread and rapid changes in the atmosphere, ocean, cryosphere and biosphere.",
+      "rationale": "Establishes a direct ethical linkage between human action and planetary harm, triggering responsibilities across sectors and generations.",
+      "weight": 1.0,
+      "notes": "Foundational in environmental ethics, policy, and science-based climate responsibility."
+    }
+  ]
+}

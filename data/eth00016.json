@@ -1,0 +1,34 @@
+{
+  "id": "eth00016",
+  "title": "UNDRIP Article 19 – Indigenous Consent and Self-Determination",
+  "titleKey": "undripConsent",
+  "type": "internationalDeclaration",
+  "status": "proposed",
+  "history": [
+    {
+      "changedFrom": "",
+      "changedTo": "proposed",
+      "changeDate": "2025-06-02"
+    }
+  ],
+  "source": {
+    "url": "https://www.un.org/development/desa/indigenouspeoples/declaration-on-the-rights-of-indigenous-peoples.html",
+    "publisher": "United Nations",
+    "retrievedDate": "2025-06-02"
+  },
+  "jurisdiction": "global",
+  "applicability": ["consent", "autonomy", "selfDetermination"],
+  "tags": ["indigenousRights", "fpic", "sovereignty"],
+  "universalPrinciples": ["autonomy", "consent", "selfDetermination"],
+  "license": "UN Declaration",
+  "origin": "external",
+  "contentBlocks": [
+    {
+      "id": "block00016a",
+      "excerpt": "States shall consult and cooperate in good faith with the indigenous peoples concerned through their own representative institutions in order to obtain their free, prior and informed consent before adopting and implementing legislative or administrative measures that may affect them.",
+      "rationale": "Sets a global ethical standard for obtaining consent from marginalized communities before imposing external policies or development.",
+      "weight": 1.0,
+      "notes": "Used in land use, extractive industries, AI deployment, and human rights compliance frameworks."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "eth002",
+  "title": "UDHR Article 25 – Right to Health and Well-being",
+  "type": "legalFramework",
+  "status": "proposed",
+  "history": [
+    {
+      "changedFrom": "",
+      "changedTo": "proposed",
+      "changeDate": "2025-06-02"
+    }
+  ],
+  "source": {
+    "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights",
+    "publisher": "United Nations",
+    "retrievedDate": "2025-06-01"
+  },
+  "jurisdiction": "global",
+  "applicability": ["harm", "wellbeing", "socialRights"],
+  "tags": ["humanRights", "health", "standardOfLiving"],
+  "universalPrinciples": ["wellbeing", "justice", "protection"],
+  "license": "UN Universal Declaration",
+  "origin": "external",
+  "contentBlocks": [
+    {
+      "id": "block002a",
+      "excerpt": "Everyone has the right to a standard of living adequate for the health and well-being of himself and of his family...",
+      "rationale": "Links health and well-being to socio-economic rights.",
+      "weight": 0.1,
+      "notes": "Foundational text in international human rights law."
+    }
+  ]
+}

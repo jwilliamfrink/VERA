@@ -1,0 +1,34 @@
+{
+  "id": "eth00017",
+  "title": "CEDAW Article 1 – Definition of Discrimination Against Women",
+  "titleKey": "cedawWomensRightsDefinition",
+  "type": "internationalTreaty",
+  "status": "proposed",
+  "history": [
+    {
+      "changedFrom": "",
+      "changedTo": "proposed",
+      "changeDate": "2025-06-02"
+    }
+  ],
+  "source": {
+    "url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-elimination-all-forms-discrimination-against-women",
+    "publisher": "United Nations Office of the High Commissioner for Human Rights (OHCHR)",
+    "retrievedDate": "2025-06-02"
+  },
+  "jurisdiction": "global",
+  "applicability": ["genderEquality", "nonDiscrimination", "humanRights"],
+  "tags": ["womensRights", "equity", "internationalLaw"],
+  "universalPrinciples": ["equality", "nonDiscrimination", "humanRights"],
+  "license": "UN Treaty",
+  "origin": "external",
+  "contentBlocks": [
+    {
+      "id": "block00017a",
+      "excerpt": "For the purposes of the present Convention, the term ‘discrimination against women’ shall mean any distinction, exclusion or restriction made on the basis of sex which has the effect or purpose of impairing or nullifying the recognition, enjoyment or exercise by women... of human rights and fundamental freedoms in the political, economic, social, cultural, civil or any other field.",
+      "rationale": "Provides a universal, legal definition of discrimination against women as a framework for ethical policy, law, and advocacy.",
+      "weight": 1.0,
+      "notes": "Adopted by over 180 countries; foundational to modern gender justice frameworks."
+    }
+  ]
+}
