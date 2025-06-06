@@ -1,25 +1,34 @@
-# Node dependencies
-node_modules/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
 
-# dotenv environment files
+# Virtual environment (TBD)
+.venv/
+env/
+venv/
+
+# Environment variable file
 .env
 
-# Logs
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+# FAISS vector store files
+vera_index.faiss
+vera_id_map.pkl
+
+# nohup logs or background output
 nohup.out
 
-# OS files
-.DS_Store
+# Node (TBD)
+node_modules/
 
-# IDE/editor settings
-.vscode/
-.idea/
-*.swp
+# MongoDB dump or backup (TBD)
+dump/
+*.bson
+*.json~
 
-# Local database / runtime
-db/
+# GraphQL schema artifacts (TBD)
+*.graphql
+*.graphqls
 
-# Python (only if Python scripts are used)
-__pycache__/
+# All Logs
+*.log
