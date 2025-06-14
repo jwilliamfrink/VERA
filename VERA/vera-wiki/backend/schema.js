@@ -3,11 +3,10 @@ const { gql } = require('apollo-server-express');
 module.exports = gql`
   type Entry {
     id: ID!
-    code: String!
     title: String!
-    summary: String!
+    summary: String
     tags: [String!]!
-    content: String!
+    content: String
   }
 
   type Query {
@@ -16,7 +15,7 @@ module.exports = gql`
   }
 
   type Mutation {
-    createEntry(code: String!, title: String!, summary: String!, tags: [String!]!, content: String!): Entry!
+    createEntry(code: String!, title: String!, summary: String, tags: [String!]!, content: String): Entry!
     updateEntry(code: String!, title: String, summary: String, tags: [String!], content: String): Entry!
     deleteEntry(code: String!): Boolean!
   }

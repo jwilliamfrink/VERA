@@ -8,7 +8,12 @@ const resolvers = require('./resolvers');
 
 const startServer = async () => {
   const app = express();
-  const server = new ApolloServer({ typeDefs, resolvers });
+  const server = new ApolloServer({
+    typeDefs,
+    resolvers,
+    introspection: true,
+    playground: true, // Enables GraphQL Playground
+  });
 
   await server.start();
   server.applyMiddleware({ app });

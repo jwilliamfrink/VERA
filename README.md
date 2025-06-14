@@ -49,3 +49,35 @@ Crucially, VERA doesn’t enforce a singular worldview. It supports ethical plur
 
 By opening the black box, VERA transforms AI into a living document - one that reflects not just what we do, but what we believe.
 
+---
+
+## How to Run Locally
+
+Start each of these in separate terminal windows:
+
+### 1. MongoDB
+
+Make sure MongoDB is installed, then run:
+
+```bash
+mongod --dbpath /home/jfrin/data/db
+
+### 2. Apollo GraphQL Server
+
+From the backend/ directory:
+
+```bash
+node index.js
+
+GraphQL endpoint will be available at:
+http://localhost:4000/graphql
+
+### 3. Frontend (React)
+
+From the frontend/ directory:
+
+```bash
+npm run dev
+
+App will be available at:
+http://localhost:5173
